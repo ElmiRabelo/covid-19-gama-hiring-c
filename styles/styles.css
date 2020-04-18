@@ -108,9 +108,10 @@ nav ul li a:hover {
   font-weight: 400;
 }
 
-.hero-content a {
+.hero-content button a {
   text-decoration: none;
-  display: block;
+}
+.hero-content button {
   padding: 15px 20px;
   border-radius: 20px;
   margin: 16px 0;
